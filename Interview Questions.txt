@@ -1,0 +1,7 @@
+1) What is generative AI?
+Generative AI is the model that can create new content such as text images or videos or code by learning from existing data. It does not perform real action it simply provides response based on available data.
+
+2) What are AI agents?
+AI Agents are the system which is designed to perform specific task automatically using defined instructions and external tools.
+
+3) What is Agentic AI
