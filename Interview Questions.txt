@@ -6,3 +6,27 @@ AI Agents are the system which is designed to perform specific task automaticall
 
 3) What is Agentic AI
 AI agents goes beyond simple generation it can reason plan and takes actions automatically.It determines objectives, refines strategies and adapts based on external factors making it more flexible and dynamic.
+
+
+
+1) What is AI agent?
+-  what is agentic AI?
+2) What are tokens?
+3) Which model you have used? which one is latest gpt model?
+4) Have you created any agent? yes- quick created a agent to automate my linkedin post
+    - email response 
+5) What is n8n agent?
+- How to build a AI agent? what are steps?
+
+- What is LLM? 1. LLM is nothing but the brain for the agent 2.Tool(Mcp server) 3. Langgraph/groove AI (Frameworks)
+
+- How is multiple agent to agent communication happen ? google ADK used for agent to agent communication
+
+- What is an agent LOOP? 
+
+- What is vector db?
+
+- Agent skills? mcpmarket skills.com
+- What is fine tuning?
+- what is supervised learning and unsupervised learning?
+- what is context window?
