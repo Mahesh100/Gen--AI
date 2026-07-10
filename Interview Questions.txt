@@ -5,3 +5,4 @@ Generative AI is the model that can create new content such as text images or vi
 AI Agents are the system which is designed to perform specific task automatically using defined instructions and external tools.
 
 3) What is Agentic AI
+AI agents goes beyond simple generation it can reason plan and takes actions automatically.It determines objectives, refines strategies and adapts based on external factors making it more flexible and dynamic.
